@@ -22,3 +22,4 @@
 <p>Project created by Rashid.</p>
 <p>This project is for GitHub learning.</p>
 <footer>
+<p>© 2026 Rashid | Base L2 Project</p>
