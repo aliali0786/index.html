@@ -13,3 +13,4 @@
 <p>Base increases transaction speed.</p>
 <p>Base provides Ethereum level security.</p>
 <p>Base supports smart contracts.</p>
+<p>Base supports DeFi and NFT platforms.</p>
