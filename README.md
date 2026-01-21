@@ -11,3 +11,4 @@
 <p>Base is built using OP Stack technology.</p>
 <p>Base reduces gas fees.</p>
 <p>Base increases transaction speed.</p>
+<p>Base provides Ethereum level security.</p>
