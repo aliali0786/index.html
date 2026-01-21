@@ -1,2 +1,1 @@
 # index.html
-JavaScript code
