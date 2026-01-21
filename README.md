@@ -20,3 +20,4 @@
 <p>Base is a future ready Layer 2 solution.</p>
 <h2>Project Info</h2>
 <p>Project created by Rashid.</p>
+<p>This project is for GitHub learning.</p>
