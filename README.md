@@ -24,3 +24,4 @@
 <footer>
 <p>© 2026 Rashid | Base L2 Project</p>
 </footer>
+</body>
