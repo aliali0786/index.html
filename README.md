@@ -21,3 +21,4 @@
 <h2>Project Info</h2>
 <p>Project created by Rashid.</p>
 <p>This project is for GitHub learning.</p>
+<footer>
