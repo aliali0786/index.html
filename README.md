@@ -17,3 +17,4 @@
 <p>Base is useful for Web3 developers.</p>
 <p>Base helps Ethereum scalability.</p>
 <p>Base sends final data to Ethereum mainnet.</p>
+<p>Base is a future ready Layer 2 solution.</p>
