@@ -16,3 +16,4 @@
 <p>Base supports DeFi and NFT platforms.</p>
 <p>Base is useful for Web3 developers.</p>
 <p>Base helps Ethereum scalability.</p>
+<p>Base sends final data to Ethereum mainnet.</p>
