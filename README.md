@@ -8,3 +8,4 @@
 <h1>Base L2 Blockchain</h1>
 <p>Base is an Ethereum Layer 2 blockchain.</p>
 <p>Base is developed by Coinbase.</p>
+<p>Base is built using OP Stack technology.</p>
