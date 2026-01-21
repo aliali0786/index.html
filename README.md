@@ -15,3 +15,4 @@
 <p>Base supports smart contracts.</p>
 <p>Base supports DeFi and NFT platforms.</p>
 <p>Base is useful for Web3 developers.</p>
+<p>Base helps Ethereum scalability.</p>
