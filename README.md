@@ -10,3 +10,4 @@
 <p>Base is developed by Coinbase.</p>
 <p>Base is built using OP Stack technology.</p>
 <p>Base reduces gas fees.</p>
+<p>Base increases transaction speed.</p>
